@@ -4,3 +4,6 @@
 [submodule "SeshatAIBE"]
 	path = SeshatAIBE
 	url = https://github.com/Adrian55Stack/SeshatAIBE
+[submodule "SeshatAIDB"]
+	path = SeshatAIDB
+	url = https://github.com/Adrian55Stack/SeshatAIDB.git
